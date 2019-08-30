@@ -1,8 +1,8 @@
 # TiziQiangGuo
 
-####Android
+#### Android
 [Download](https://github.com/KeXueQiangGuo/TiZiQiangGuo/tree/master/android)      
-####iphone/ios        
+#### iphone/ios        
 
 [Download](https://github.com/KeXueQiangGuo/TiZiQiangGuo/tree/master/iphone)     
 #### Windows
